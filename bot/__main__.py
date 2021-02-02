@@ -99,6 +99,7 @@ def bot_help(update, context):
 
 /{BotCommands.LogCommand}: Get a log file of the bot. Handy for getting crash reports
 
+BY @Universal_Fast_Mirror
 '''
     sendMessage(help_string, context.bot, update)
 
